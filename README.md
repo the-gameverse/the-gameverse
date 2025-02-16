@@ -25,7 +25,7 @@ We're passionate about creating a school-friendly platform that provides unblock
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ## Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=the-gameverse&style=for-the-badge&color=black&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=the-gameverse&style=for-the-badge&color=red&label=PROFILE+VIEWS)
 
 ## Stats
 [![the-gameverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-gameverse&hide=prs,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
