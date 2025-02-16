@@ -8,7 +8,7 @@ We're passionate about creating a school-friendly platform that provides unblock
 - 👀 We’re interested in creating safe and enjoyable online environments.
 - 🌱 We’re currently learning more about user interface design and content moderation.
 - 💞️ We’re looking to collaborate on educational and entertainment projects.
-- 📫 How to reach us: [Email](mailto:your.email@example.com)
+- 📫 How to reach us: [Email](mailto:gameverse.site@gmail.com) [Our Website](https://gameverse.global.ssl.fastly.net)
 - 😄 Pronouns: awesome/cool
 - ⚡ Fun fact: We love integrating new technologies to enhance user experience.
 
