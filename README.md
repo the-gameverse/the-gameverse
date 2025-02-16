@@ -1,5 +1,7 @@
 # Hi there, we're @the-gameverse 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there,+we're+@the-gameverse+👋;Looking+awesome!+✨;Check+out+our+website!+🌐;We+use+HTML,+CSS,+and+JavaScript+to+make+an+awesome+website!)](https://git.io/typing-svg)
+
 ## About Us
 Welcome to GameVerse! 🌟
 
