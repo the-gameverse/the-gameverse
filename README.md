@@ -2,7 +2,7 @@
 
 # Hi there, we're @the-gameverse 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=DB1102&width=435&lines=Looking+awesome!+%E2%9C%A8;We+use+HTML%2C+CSS%2C+and+JavaScript.+%F0%9F%A7%91%E2%80%8D%F...)
+[Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=DB1102&width=435&lines=Looking+awesome!+%E2%9C%A8;We+use+HTML%2C+CSS%2C+and+JavaScript.+%F0%9F%A7%91%E2%80%8D%F...)
 
 ## About Us
 Welcome to GameVerse! 🌟
