@@ -21,7 +21,7 @@ We're passionate about creating a school-friendly platform that provides unblock
 ![Profile Views](https://komarev.com/ghpvc/?username=the-gameverse&style=flat-square)
 
 ## Stats
-[![the-gameverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-gameverse)](https://github.com/anuraghazra/github-readme-stats)
+[![the-gameverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-gameverse)](https://github.com/anuraghazra/github-readme-stats&hide=prs,issues)
 <!---
 the-gameverse/the-gameverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
