@@ -24,8 +24,6 @@ We're passionate about creating a school-friendly platform that provides unblock
 ## Stats
 [![the-gameverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-gameverse&hide=prs,issues,contribs&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-## Site Status 
-![GitHub Actions](https://github.com/the-gameverse/the-gameverse.github.io/actions/workflows/main.yml/badge.svg)
 
 <!---
 the-gameverse/the-gameverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
