@@ -2,7 +2,7 @@
 
 # Hi there, we're @the-gameverse 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=DB1102&center=true&multiline=false&width=435&lines=Looking+awesome!+%E2%9C%A8;We+use+HTML%2C+CSS%2C+and+JavaScript+to+bring+you+an+awesome+experience.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Follow+us!+%F0%9F%91%A4;Check+out+our+website!+%F0%9F%8C%90;Secret+link%3A+githubiscracked.global.ssl.fastly.net)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=DB1102&center=true&width=435&lines=Looking+awesome!+%E2%9C%A8;We+use+HTML%2C+CSS%2C+and+JavaScript.+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Follow+us!+%F0%9F%91%A4;Star+the+website's+repo!+%E2%AD%90;Check+out+our+website!+%F0%9F%8C%90;gameverse.global.ssl.fastly.net)](https://git.io/typing-svg)
 
 ![Powered by GitHub](https://img.shields.io/badge/powered%20by-GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![Powered by Fastly](https://img.shields.io/badge/powered%20by-Fastly-black?style=for-the-badge&logo=fastly&logoColor=white)
